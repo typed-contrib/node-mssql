@@ -1,7 +1,7 @@
 {
   "version": false,
   "globalDependencies": {
-    "es2015-promise": "github:typed-contrib/es2015/promise/typings.json#0.1.0",
+    "es2015-promise": "github:typed-contrib/es2015/promise/typings.json#0.1.1",
     "node": "registry:dt/node#6.0.0+20160514165920"
   },
   "dependencies": {
