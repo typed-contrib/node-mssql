@@ -1,0 +1,45 @@
+{
+  "name": "typed-mssql",
+  "version": "0.10.0",
+  "description": "Type definitions for https://github.com/patriksimek/node-mssql",
+  "main": "index.js",
+  "author": "typed-contrib",
+  "license": "MIT",
+  "homepage": "https://github.com/typed-contrib/node-mssql#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/typed-contrib/node-mssql.git"
+  },
+  "bugs": {
+    "url": "https://github.com/typed-contrib/node-mssql/issues"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "postinstall": "typings install",
+    "test": "cd test && typings install && tsc -p ."
+  },
+  "keywords": [
+    "typings",
+    "definitions",
+    "typescript",
+    "sql",
+    "sqlserver",
+    "microsoft",
+    "azure",
+    "storage",
+    "table",
+    "tedious",
+    "msnodesql",
+    "msnodesqlv8",
+    "tds",
+    "typed-contrib",
+    "typed",
+    "tsd"
+  ],
+  "devDependencies": {
+    "typings": "^1.0.4",
+    "typescript": "^1.8.10"
+  }
+}
