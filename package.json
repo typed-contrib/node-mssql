@@ -1,6 +1,6 @@
 {
   "name": "typed-mssql",
-  "version": "0.10.0",
+  "version": "3.3.0",
   "description": "Type definitions for https://github.com/patriksimek/node-mssql",
   "main": "index.js",
   "author": "typed-contrib",
