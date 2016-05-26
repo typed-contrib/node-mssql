@@ -3,7 +3,7 @@
     "main": "index.d.ts",
     "version": "3.3.0",
     "globalDependencies": {
-        "es2015-promise": "github:typed-contrib/es2015/promise/typings.json#0.1.1",
+        "es2015-promise": "registry:env/es2015-promise#1.0.0+20160526151700",
         "node": "registry:dt/node#6.0.0+20160514165920"
     }
 }
